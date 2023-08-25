@@ -1,0 +1,13 @@
+h1 {
+    color: aliceblue;
+    background-color: blue;
+}
+p {
+    color: #000;
+    background-color: blueviolet;
+}
+h2 {
+    border-radius: 20px;
+    border-style: solid;
+    border-color: aliceblue;
+}
