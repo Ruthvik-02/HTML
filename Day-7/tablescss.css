@@ -1,0 +1,20 @@
+table,th,td {
+    border: 4px groove black;
+    border-collapse: collapse;
+    border-radius: 107px;
+
+    padding: 10px;
+    margin: 10px;
+}
+th ,td {
+    /* background-color: blue; */
+    text-align: center;
+}
+table {
+    /* width: 300px; */
+    border-spacing: 70px;
+}
+
+tr:nth-child(odd){
+    background-color: yellow;
+}
