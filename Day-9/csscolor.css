@@ -2,11 +2,11 @@ h1 {
     background-color: bisque;
   }
   
-  div {
+  div p{
     background-color: blue;
   }
   
   p {
-    background-color: lightsalmon;
+    background-color: rgb(122, 255, 166);
     opacity: 0.6;
   }
