@@ -1,0 +1,10 @@
+button {
+    background-color: brown;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+h1:nth-child(even){
+    background-color: rgb(255, 0, 0);
+}
